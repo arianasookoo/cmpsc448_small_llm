@@ -1,0 +1,4 @@
+# needs 64-bit Python 3.10+ (PyTorch has no 32-bit Windows builds)
+torch
+# optional: lets prepare_data.py download through antivirus/proxy HTTPS scanning
+truststore
