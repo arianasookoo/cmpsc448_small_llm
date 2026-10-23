@@ -1,0 +1,12 @@
+# virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# downloaded dataset (recreate with: python prepare_data.py)
+data.txt
+
+# trained model checkpoints (recreate with: python train.py)
+*.pt
